@@ -1,7 +1,7 @@
 # Olá! Eu sou Antony Chagas 👍
 
 - 👨‍🎓Estudande de programação Back-End
-- 🎻Sou violista
+- 🎻Violista
 
 
 <div align="center">
