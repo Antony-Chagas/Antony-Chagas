@@ -1,6 +1,6 @@
 # Olá! Eu sou Antony Chagas 👍
 
-- 👨‍🎓Estudande de programação Back-End
+- 👨‍🎓Estudande de programação
 - 🎻Violista
 
 
@@ -16,5 +16,9 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- 
 </div>
+
+<br><br>
+**Back-End:** Lógica de programação, PHP, PHP orientado a objetos, framework Laravel, conhecimentos básicos em JavaScript, Java e .NET. <br>
+**Front-End:** HTML, CSS, JavaScript, conhecimentos no uso de framework Bootstrap.<br>
+**Banco de dados:** MySQL, Comandos SQL, construção de Modelo conceitual e Modelo Lógico (ferramenta BRModelo).<br>
